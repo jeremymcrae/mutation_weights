@@ -1,3 +1,7 @@
+''' script to get context specific mutation rates per nucleotide (and alt
+allele) for genes known to be dominantly associated with developmental
+disorders.
+'''
 
 import gzip
 import argparse
