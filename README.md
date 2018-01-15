@@ -31,4 +31,7 @@ scores in each window, then calculated the enrichment as observed over expected.
 I also stratified by whether the sites were in regions with regional missense
 constraint (Kaitlin's regional constraint, that is). Basically doing the same thing
 as above, but once where I only included sites under regional constraint, and 
-another time with only sites not under regional constraint.
+another time with only sites not under regional constraint. Kaitlin's tables
+provided scores that I used to classify regions into a binary constrained/
+unconstrained (determined by looking at enrichment across range of obs/exp ORs
+and obs/exp p-values (from Kaitlin's table)).
